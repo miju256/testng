@@ -1,0 +1,13 @@
+<suite name="smoketest">
+<test name="coretest">
+<classes>
+<class name="com.bit.test.RegressionTest">
+<method> 
+<includes name="TEST2"></includes>
+</method>
+</class>
+</classes>
+
+
+</test>
+</suite>
